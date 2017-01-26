@@ -7,9 +7,9 @@
   1. [Model-Free Control](#model-free-control-pdf)
   1. [Value Function Approximation](#value-function-approximation-pdf)
   1. [Policy Gradient Methods](#policy-gradient-methods-pdf)
-  1. [Integrating Learning and Planning](#integrating-learning-and-planning-pdf)
-  1. [Exploration and Exploitation](#exploration-and-exploitation-pdf)
-  1. [Case Study: RL in Classic Games]()
+  1. [Integrating Learning and Planning](#integrating-learning-and-planning-pdf)
+  1. [Exploration and Exploitation](#exploration-and-exploitation-pdf)
+  1. [Case Study: RL in Classic Games](#case-study-rl-in-classic-games-pdf)
 
 ## Introduction to Reinforcement Learning [[pdf]](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/intro_RL.pdf)
 
