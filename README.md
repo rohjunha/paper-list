@@ -20,3 +20,4 @@
 * arxiv2016, Asynchronous Methods for Deep Reinforcement Learning [[pdf]](https://arxiv.org/pdf/1602.01783v2.pdf)
 * arxiv2016, LEARNING TO NAVIGATE IN COMPLEX ENVIRONMENTS [[pdf]](https://arxiv.org/pdf/1611.03673v3.pdf)
 * arxiv2016, EPISODIC EXPLORATION FOR DEEP DETERMINISTIC POLICIES FOR STARCRAFT MICROMANAGEMENT [[pdf]](https://openreview.net/pdf?id=r1LXit5ee)
+* arxiv2016, THE PREDICTRON: END-TO-END LEARNING AND PLANNING [[pdf]](https://openreview.net/pdf?id=BkJsCIcgl)
