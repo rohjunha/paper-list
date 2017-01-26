@@ -11,3 +11,10 @@
 ## Webpage
   * Awesome-RL: https://github.com/aikorea/awesome-rl
   * Reddit ML: https://www.reddit.com/r/MachineLearning/
+  * NIPS 2016 Workshop: https://sites.google.com/site/deeprlnips2016/
+
+# Papers to read
+* nips2016, Value Iteration Networks [[pdf]](https://arxiv.org/pdf/1602.02867v2.pdf)
+* arxiv2017, LEARNING TO REINFORCEMENT LEARN [[pdf]](https://arxiv.org/pdf/1611.05763v3.pdf)
+* arxiv2016, (CAD)^2RL: Real Single-Image Flight without a Single Real Image [[pdf]](https://arxiv.org/pdf/1611.04201.pdf)
+* arxiv2016, Asynchronous Methods for Deep Reinforcement Learning [[pdf]](https://arxiv.org/pdf/1602.01783v2.pdf)
