@@ -18,4 +18,4 @@
 * arxiv2017, LEARNING TO REINFORCEMENT LEARN [[pdf]](https://arxiv.org/pdf/1611.05763v3.pdf)
 * arxiv2016, (CAD)^2RL: Real Single-Image Flight without a Single Real Image [[pdf]](https://arxiv.org/pdf/1611.04201.pdf)
 * arxiv2016, Asynchronous Methods for Deep Reinforcement Learning [[pdf]](https://arxiv.org/pdf/1602.01783v2.pdf)
-* arxiv2016, LEARNING TO NAVIGATE IN COMPLEX ENVIRONMENTS (https://arxiv.org/pdf/1611.03673v3.pdf)
+* arxiv2016, LEARNING TO NAVIGATE IN COMPLEX ENVIRONMENTS [[pdf]](https://arxiv.org/pdf/1611.03673v3.pdf)
