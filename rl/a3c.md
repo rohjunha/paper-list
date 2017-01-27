@@ -20,6 +20,12 @@ as well as on a new task of navigating random 3D mazes using a visual input.
 * It also alleviates the problem of online RL algorithms with much less sophisticated hardware.
 
 ## Related Work
+* Gorila (General Reinforcement Learning Architecture) performs asynchronous training
+  * Gradients are asynchronously sent to a central parameter server
+  * Outperformed DQN over 49 Atari games.
+* Parallelizing approaches: Map Reduces framework, or peer-to-peer communicating multiple actor-learners
+* Convergence property of distributed Q-learning was investigated.
+* Evolutionary methods also have been applied to RL tasks.
 
 ## Reinforcement Learning Background
 
