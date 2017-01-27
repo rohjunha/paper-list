@@ -27,5 +27,9 @@ A ***reward signal*** defines the goal in a reinforcement learning problem. On e
 
 Whereas the reward signal indicates what is good in an immediate sense, a ***value function*** specifies what is good in the long run. Roughly speaking, the value of a state is the total amount of reward an agent can expect to accumulate over the future, starting from that state.
 
+Rewards are in a sense primary, whereas values, as predictions of rewards, are secondary. Without rewards there could be no values, and the only purpose of es- timating values is to achieve more reward. Nevertheless, it is values with which we are most concerned when making and evaluating decisions. Action choices are made based on value judgments. We seek actions that bring about states of highest value, not highest reward, because these actions obtain the greatest amount of reward for us over the long run.
+
+The fourth and final element of some reinforcement learning systems is a model of the environment. This is something that mimics the behavior of the environment, or more generally, that allows inferences to be made about how the environment will behave.
+
 ### Limitations and Scope
 ### An Extended Example: Tic-Tac-Toe
