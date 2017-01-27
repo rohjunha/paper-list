@@ -12,9 +12,14 @@ These three characteristics— being closed-loop in an essential way, not having
 
 Another key feature of reinforcement learning is that it explicitly considers the whole problem of a goal-directed agent interacting with an uncertain environment.
 
-### Examples
 ### Elements of Reinforcement Learning
-Beyond the agent and the environment, one can identify four main subelements of a reinforcement learning system: a policy, a reward signal, a value function, and, optionally, a model of the environment.
+Beyond the agent and the environment, one can identify four main subelements of a reinforcement learning system:
+* a policy
+* a reward signal
+* a value function
+
+and, optionally
+* a model of the environment.
 
 ### Limitations and Scope
 ### An Extended Example: Tic-Tac-Toe
