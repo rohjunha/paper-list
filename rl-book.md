@@ -21,5 +21,11 @@ Beyond the agent and the environment, one can identify four main subelements of 
 and, optionally
 * a model of the environment.
 
+A ***policy*** defines the learning agent’s way of behaving at a given time. Roughly speaking, a policy is a mapping from perceived states of the environment to actions to be taken when in those states.
+
+A ***reward signal*** defines the goal in a reinforcement learning problem. On each time step, the environment sends to the reinforcement learning agent a single number, a reward. The agent’s sole objective is to maximize the total reward it receives over the long run. The reward signal thus defines what are the good and bad events for the agent.
+
+Whereas the reward signal indicates what is good in an immediate sense, a ***value function*** specifies what is good in the long run. Roughly speaking, the value of a state is the total amount of reward an agent can expect to accumulate over the future, starting from that state.
+
 ### Limitations and Scope
 ### An Extended Example: Tic-Tac-Toe
