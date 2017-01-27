@@ -28,6 +28,8 @@ as well as on a new task of navigating random 3D mazes using a visual input.
 * Evolutionary methods also have been applied to RL tasks.
 
 ## Reinforcement Learning Background
+* Standard reinforcement learning setting
+* The action value Q is the expected return for selecting action a in state s, following policy \pi.
 
 ## Asynchronous RL Framework
 
