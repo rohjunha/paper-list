@@ -28,8 +28,14 @@ as well as on a new task of navigating random 3D mazes using a visual input.
 * Evolutionary methods also have been applied to RL tasks.
 
 ## Reinforcement Learning Background
-* Standard reinforcement learning setting
-* The action value Q is the expected return for selecting action a in state s, following policy \pi.
+* Defined standard reinforcement learning setting
+* "In value-based model-free reinforcement learning methods, the action value function is represented using a function ap- proximator, such as a neural network."
+* We refer to the above method as one-step Q-learning because it updates the action value Q(s, a) toward the one-step return r + γ max a′ Q(s′, a′; θ).
+* One-step look-ahead makes the learning process slow
+* One way of propagating rewards faster is by using n-step returns.
+* Policy-based model-free methods directly parameterize the policy π(a|s; θ) and update the parameters θ.
+  * Reduce the variance of the estimate while keeping it unbiased by subtracting a function of the state, known as a baseline.
+* The quantity Rt - bt can be seen as an estimate of advantage, Q(at, st) - V(st), and is an actor-critic architecture.
 
 ## Asynchronous RL Framework
 
