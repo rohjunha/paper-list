@@ -6,7 +6,7 @@
   * Course at Berkeley'17: Deep Reinforcement Learning by Sergey [[web]](http://rll.berkeley.edu/deeprlcourse/) [[video]](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX)
 
 ## Book/Material
-  * Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction [[pdf]](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf) [[Code]](https://webdocs.cs.ualberta.ca/~sutton/book/code/code.html)
+  * Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction [[pdf]](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf) [[code]](https://webdocs.cs.ualberta.ca/~sutton/book/code/code.html) [[page]](rl-book.md)
 
 ## Webpage
   * Awesome-RL: https://github.com/aikorea/awesome-rl
